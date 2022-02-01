@@ -1,0 +1,16 @@
+Las variables se usan para guardar información dentro de una palabra, para que después se pueda usar.
+Algunas variables se llaman "var", "let" y "const".
+
+Los strings, son palabras/numeros o grupos de palabras/numeros que se pueden reconocer facilmente porque siempre se escriben entre comillas.
+
+Una funcion es un monton de lineas de palabras que juntas funcionan para hacer algo. Como por ejemplo, sumar, restar, o escribir un mensaje.
+
+Los argumentos son como las variables que ponemos dentro de una funcion y le vamos a dar un significado para cuando queramos volver a usarla.
+
+Return, se usa para que cuando queramos que dentro de una funcion se nos muestre un resultado. 
+
+Declaraciones,
+
+If, es una palabra que utilizamos para poner una condicion. Ejemplo: Quiero pedir una pizza solo si(if) me la traen rapido. 
+
+Valores Booleanos, son verdadero o falso. Asi como en matematicas se usa suma, resta, multiplicacion y division. Con los valores booleanos, solo se utilizaria verdadero o falso. 
