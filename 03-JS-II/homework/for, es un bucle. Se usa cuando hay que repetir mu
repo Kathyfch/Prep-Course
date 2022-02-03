@@ -1,0 +1,3 @@
+for, es un bucle. Se usa cuando hay que repetir muchas veces el mismo codigo. Y esta dividido en tres partes: una parte que declara la funcion, otra que la condiciona y la ultima se le llama iteracion.
+
+&&, ||, !, a estos signos se le llaman, operadores logicos. Significan palabras simples como por ejemplo: && = y  || = 0 ! = NO
